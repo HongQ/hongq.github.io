@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Hongkyu, Bok"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "공부하고 **기록**하자"
   location         : "Somewhere"
-  email            :
+  email            : "bok7370@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
